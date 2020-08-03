@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">By.u</string>
+    <string name="text_select_plan">Pick your data plan!</string>
+    <string name="text_desc_image">Image in background</string>
+    <string name="btn_text_choose">Choose</string>
+    <string name="text_area">No Restriction on certain apps, network, or location</string>
+</resources>
